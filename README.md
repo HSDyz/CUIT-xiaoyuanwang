@@ -3,7 +3,7 @@
 ## 自动化运行讲解：
 ### 第一步 找一个文件夹解压文件，打开软件登陆一次（保存认证信息）
 ### 第二步，添加任务计划程序（按下 Windows 键 + R，输入命令 taskschd.msc，然后按 确定，还不会的百度：任务计划程序怎么打开），再根据windos的断网日志事件设置启动自动完成登录认证，见下图步骤
-### 点击3次标题进入备用账号设置界面，防止主账号无剩余时长
+#### 小知识：点击3次标题进入备用账号设置界面，防止主账号无剩余时长无法联网情况（每个教育网时长有限）
 <br><img width="399" height="230" alt="image" src="https://github.com/user-attachments/assets/349d81d9-aaea-4818-9145-8727bdc2fb4d" />  
 
 <br><img width="1167" height="780" alt="image" src="https://github.com/user-attachments/assets/ace5bcdc-50c2-4b36-928d-ee44df36f39d" />  <br>
